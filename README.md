@@ -67,6 +67,14 @@ Compared annual growth rates across categories
 
 5. 2025 decline is due to incomplete data, not an actual market downturn.
 
+# Conclusion 
+This project revealed that growth in Canada’s dairy industry is largely driven by industrial use and off-farm sales, reflecting export demand and processing capacity, while fluid milk consumption has remained stagnant, signaling a mature domestic market.
+
+Seasonal peaks highlight production and demand cycles, and year-over-year trends confirm steady long-term growth in exports and processing.
+
+Overall, the analysis demonstrates how data cleaning, visualization, and statistical exploration in R can uncover meaningful insights into industry dynamics.
+
+
 
 
 # How to Run 
