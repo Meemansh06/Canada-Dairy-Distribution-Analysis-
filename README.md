@@ -72,9 +72,7 @@ Compared annual growth rates across categories
 # How to Run 
 
 1. Clone this repository :
-git clone https://github.com/yourusername/canada-dairy-distribution-analysis.git
-cd canada-dairy-distribution-analysis
-
+git clone https://github.com/Meemansh06/Canada-Dairy-Distribution-Analysis-
 2. Open the R script in RStudio: 
 source("Dairy.R")
   
