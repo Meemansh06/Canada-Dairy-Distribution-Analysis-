@@ -38,6 +38,7 @@ Converted monthly text into Date format
 Extracted year and month for aggregation
 
 ## 2. Summary Statistics 
+![image alt](https://github.com/Meemansh06/Canada-Dairy-Distribution-Analysis-/blob/44b143f13ff7107435a82ed9b789a2db4ee0d05e/summary%20statistics.png)
 Mean, median, standard deviation, min, max values per category
 
 ## 3. Seasonality (Average by Month)
