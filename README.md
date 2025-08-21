@@ -91,25 +91,36 @@ Compared annual growth rates across categories
 
 # Conclusion 
 
-1. Canada’s dairy industry growth is export- and processing-driven, not consumer-driven.
+This project revealed that growth in Canada’s dairy industry is largely driven by industrial use and off-farm sales, reflecting export demand and processing capacity, while fluid milk consumption has remained stagnant, signaling a mature domestic market. Seasonal peaks highlight production and demand cycles, and year-over-year trends confirm steady long-term growth in exports and processing. Overall, the analysis demonstrates how data cleaning, visualization, and statistical exploration in R can uncover meaningful insights into industry dynamics.
 
-2. Industrial and off-farm milk categories are expanding, reflecting globalization and supply chain strength.
 
-3. Fluid milk is stagnant, suggesting consumer preference shifts and a mature domestic market.
+# Project Outcome 
 
-4. Seasonal cycles and year-over-year changes highlight production dependencies and market stability in certain segments.
+This project successfully demonstrated the end-to-end data analysis process in R, starting from raw Statistics Canada data to actionable business insights. By applying data cleaning, transformation, and visualization techniques, I uncovered seasonal patterns, long-term growth trends, and consumption shifts in Canada’s dairy industry.
+
+Through this project, I showcased my ability to: 
+
+1. Work with real-world, large-scale government datasets.
+
+2. Build efficient data pipelines using dplyr and readr.
+
+3. Communicate insights visually through ggplot2.
+
+4. Translate technical analysis into clear, decision-oriented findings.
+
+
 
 
 
 
 # How to Run 
 
-1. Clone this repository :
+## 1. Clone this repository 
 git clone https://github.com/Meemansh06/Canada-Dairy-Distribution-Analysis-
-2. Open the R script in RStudio: 
+## 2. Open the R script in RStudio 
 source("Dairy.R")
   
-3. Visualizations will be generated for each analysis step. 
+## 3. Visualizations will be generated for each analysis step. 
 
 
 # Reference 
