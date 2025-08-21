@@ -41,18 +41,22 @@ Extracted year and month for aggregation
 Mean, median, standard deviation, min, max values per category
 
 ## 3. Seasonality (Average by Month)
+![image alt](https://github.com/Meemansh06/Canada-Dairy-Distribution-Analysis-/blob/18ceddfe209acd14692df6945a15589a6a4cd3e1/average%20monthly%20dairy%20distribution.png)
 Identified monthly peaks and dips across dairy categories
 
 
 ## 4. Yearly Totals
+![image alt](https://github.com/Meemansh06/Canada-Dairy-Distribution-Analysis-/blob/18ceddfe209acd14692df6945a15589a6a4cd3e1/yearly%20dairy%20distribuiton%20trends.png)
 Tracked long-term growth patterns in distribution
 
 
 ## 5. Trends Over Time 
+![image alt](https://github.com/Meemansh06/Canada-Dairy-Distribution-Analysis-/blob/18ceddfe209acd14692df6945a15589a6a4cd3e1/monthly%20dairy%20distribution%20trends.png)
 Visualized continuous monthly distribution trends
 
 
 ## 6. Year over Year % Change 
+![image alt](https://github.com/Meemansh06/Canada-Dairy-Distribution-Analysis-/blob/18ceddfe209acd14692df6945a15589a6a4cd3e1/year%20over%20year%20.png)
 Compared annual growth rates across categories
 
 
@@ -83,6 +87,7 @@ Compared annual growth rates across categories
   
 
 ## 5. Year-over-Year % Change
+
   Industrial and off-farm categories show higher volatility, while fluid milk fluctuates minimally (~0% change).
   Confirms that the fluid milk market is saturated, while exports and industrial demand are growth drivers. 
 
